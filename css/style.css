@@ -167,6 +167,13 @@ footer a{
         width: 100%;
         height: 100vh;
     }
+    .svgLogo{
+        width: 65%;
+    }
+    .rightLogo{
+        margin: 0;
+        width: 10%;
+    }
 }
 @media only screen and (max-width: 1200px) {
     .login{
