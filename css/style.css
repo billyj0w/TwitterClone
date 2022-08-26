@@ -67,6 +67,7 @@ body{
     width: 100%;
 }
 .firstText h1{
+    font-size: Roboto;
     width: 100%;
     font-size: 4rem;
     margin-bottom: 8%;
@@ -213,13 +214,16 @@ footer a{
     }
     .left{
         width: 100%;
-        height: 40vh;
+        height: 60vh;
     }
     .right{
         height: 100%;
         display: flex;
         flex-direction: column;
         margin-bottom: 5%;
+    }
+    .svgLogo{
+        width: 70%;
     }
 }
 
